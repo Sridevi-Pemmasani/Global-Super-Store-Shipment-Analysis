@@ -1,4 +1,4 @@
-# Global Super Store - Shipment Analysis
+# Global-Superstore - Shipment Analysis
 
 This project presents a shipment performance analysis using interactive dashboards built from the Global Superstore dataset.
 
